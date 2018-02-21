@@ -1,5 +1,6 @@
 package base;
 
-public class SauceLabs {
+public class SauceLabs extends Driver {
+	
 
 }
